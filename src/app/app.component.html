@@ -2,7 +2,7 @@
 <!-- Toolbar -->
 <div  class="toolbar" role="banner">
   <span>Employee Application</span>
-  <button *ngIf="employeeData.length === 0" class="btn btn-success" (click)="openAddEditEmpForm()">ADD EMPLOYEE</button>
+  <button  class="btn btn-success" (click)="openAddEditEmpForm()">ADD EMPLOYEE</button>
 </div>
 <div class="d1">
     <ul class="horizontal" *ngFor="let emp of displayedColumns">
