@@ -1,0 +1,68 @@
+.toolbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: #1976d2;
+  color: white;
+  font-weight: 600;
+
+}
+
+.toolbar img {
+  margin: 0 16px;
+}
+
+.toolbar span{
+  margin-left: 20px;
+}
+.toolbar button{
+  margin-left:auto;
+  margin-right: 10px
+}
+.table{
+  margin-top: 20px;
+}
+.d1{
+  display:flex;
+  margin-top: 100px;
+  margin-left: 20px;
+}
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.main-body {
+  padding-top: 20px;
+  margin: 0 auto;
+  max-width: 1348px;
+  mat-form-field {
+    width: 100%;
+  }
+}
+
+.action {
+  display: flex;
+  gap: 5px;
+}
+
+ul.horizontal {
+  padding:10px;
+  list-style: none;
+  border-bottom: 1px solid rgb(222, 218, 218);
+  width:100%
+}
+
+ul.horizontal li {
+  display: inline-block;
+  margin-right: 8%;
+}
+
+
+.bg-yellow{
+  background-color: yellow;
+}
+

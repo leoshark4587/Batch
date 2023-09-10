@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Harold",
+      "lastName": "Lampkegg",
+      "email": "hlampke56@acquirethisname.com",
+      "dob": "2000-10-23T10:48:44Z",
+      "gender": "Male",
+      "education": "Graduate",
+      "company": "Browsebug",
+      "experience": 50,
+      "package": 34,
+      "id": 187
+    },
+    {
+      "id": 188,
+      "firstName": "Katrina",
+      "lastName": "Yurikov",
+      "email": "kyurikov57@yandex.ru",
+      "dob": "1990-11-07T11:22:21Z",
+      "gender": "Female",
+      "education": "Graduate",
+      "company": "Feednation",
+      "experience": 100,
+      "package": 24
+    },
+    {
+      "id": 189,
+      "firstName": "Rosanna",
+      "lastName": "Errol",
+      "email": "rerrol58@w3.org",
+      "dob": "2001-08-26T04:42:25Z",
+      "gender": "Female",
+      "education": "Diploma",
+      "company": "Blogspan",
+      "experience": 25,
+      "package": 24
+    },
+    {
+      "id": 190,
+      "firstName": "Clarissa",
+      "lastName": "Kunat",
+      "email": "ckunat59@usa.gov",
+      "dob": "2004-05-18T01:28:52Z",
+      "gender": "Female",
+      "education": "Intermediate",
+      "company": "Oyope",
+      "experience": 57,
+      "package": 23
+    },
+    {
+      "id": 191,
+      "firstName": "Sheri",
+      "lastName": "Houndson",
+      "email": "shoundson5a@nhs.uk",
+      "dob": "1981-06-17T09:44:03Z",
+      "gender": "Female",
+      "education": "Matric",
+      "company": "Mycat",
+      "experience": 89,
+      "package": 21
+    },
+    {
+      "firstName": "hjgd",
+      "lastName": "Bernardy",
+      "email": "bbernardy5b@purevolume.com",
+      "dob": "2001-11-02T14:01:41Z",
+      "gender": "Male",
+      "education": "Intermediate",
+      "company": "Skinix",
+      "experience": 50,
+      "package": 18,
+      "id": 192
+    },
+    {
+      "firstName": "monu",
+      "lastName": "kumar",
+      "email": "",
+      "dob": "",
+      "gender": "m",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 193
+    },
+    {
+      "firstName": "monu",
+      "lastName": "kumar",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 194
+    },
+    {
+      "firstName": "monu",
+      "lastName": "sas",
+      "email": "",
+      "dob": "",
+      "gender": "s",
+      "education": "",
+      "company": "ss",
+      "experience": "",
+      "package": "",
+      "id": 195
+    },
+    {
+      "firstName": "monu",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 196
+    }
+  ]
+}
